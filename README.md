@@ -2,7 +2,7 @@
 Assignment 1
 Scala tutorial 2
 1.	Consider the following variables required.
-2.	
+	
 i,j,m,n,k;
 f,g;
 c;
