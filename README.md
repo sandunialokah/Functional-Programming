@@ -8,6 +8,7 @@ f,g;
 c;
 
 2. then declare the variables in Scala and assign with the initial values as follows:
+
         k = i = j = 2;
         m = n = 5;
 	f = 12.0f;
@@ -17,13 +18,14 @@ c;
 3. and evaluate the following expressions:
 
 a) k + 12 * m	
-
 b) m / j
 c) n % j
 d) m / j * j
 e) f + 10*5 +g
 f) ++i * n
+
 Compare the Java and Scala programming languages.
+
 •	Use the following declaration and initialization to convert them to acceptable Scala statements. 
 
 int a = 2, b = 3, c = 4, d = 5;
