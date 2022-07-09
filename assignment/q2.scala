@@ -7,6 +7,6 @@ var k:Float = 4.3f;
 
 println(--b * a + c *d --);  //-- and ++ is not there
 println(a++);
-println(-2 * ( g - k ) +c);  // what is g???
+println(-2 * ( g - k ) +c);  // g is not defined
 println(c=c++);
 println(c=++c*a++);
