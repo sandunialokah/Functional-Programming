@@ -3,41 +3,41 @@ Assignment 1
 Scala tutorial 2
 1.	Consider the following variables required.
 	
-i,j,m,n,k;
-f,g;
-c;
+       i,j,m,n,k;
+       f,g;
+       c;
 
 2. then declare the variables in Scala and assign with the initial values as follows:
 
         k = i = j = 2;
         m = n = 5;
-	f = 12.0f;
-	g = 4.0f;
-	c = ‘X’;
+        f = 12.0f;
+        g = 4.0f;
+        c = ‘X’;
 	
 3. and evaluate the following expressions:
 
-a) k + 12 * m	
-b) m / j
-c) n % j
-d) m / j * j
-e) f + 10*5 +g
-f) ++i * n
+       a) k + 12 * m	
+       b) m / j
+       c) n % j
+       d) m / j * j
+       e) f + 10*5 +g
+       f) ++i * n
 
 Compare the Java and Scala programming languages.
 
 •	Use the following declaration and initialization to convert them to acceptable Scala statements. 
 
-int a = 2, b = 3, c = 4, d = 5;
-float k = 4.3f;
+     int a = 2, b = 3, c = 4, d = 5;
+     float k = 4.3f;
 
 and evaluate the following expressions
 
-a) println( - -b * a + c *d - -);
-b) println(a++);
-c) println (–2 * ( g – k ) +c);
-d) println (c=c++);
-e) println (c=++c*a++);
+     a) println( - -b * a + c *d - -);
+     b) println(a++);
+     c) println (–2 * ( g – k ) +c);
+     d) println (c=c++);
+     e) println (c=++c*a++);
 
 4.Write Scala functions to solve the following problems. 
 
