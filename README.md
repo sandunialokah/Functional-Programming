@@ -6,12 +6,14 @@ Scala tutorial 2
 i,j,m,n,k;
 f,g;
 c;
+
 2. then declare the variables in Scala and assign with the initial values as follows:
           k = i = j = 2;
           m = n = 5;
 	f = 12.0f;
 	g = 4.0f;
 	c = ‘X’;
+	
 3. and evaluate the following expressions:
 
 a) k + 12 * m	
