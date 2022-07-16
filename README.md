@@ -1,5 +1,5 @@
 # SCS2204 - Functional Programming 
-Assignment 1
+<h3>Assignment 1<h3>
 
 1.	Consider the following variables required.
 	
@@ -46,6 +46,17 @@ a. Company XYZ & Co. pays all its employees Rs.250 per normal working hour and R
 b. Imagine the owner of a movie theater who has complete freedom in setting ticket prices. The more he charges, the fewer the people who can afford tickets. In a recent experiment the owner determined a precise relationship between the price of a ticket and average attendance.  At a price of Rs 15.00 per ticket, 120 people attend a performance. Decreasing the price by  5 Rupees increases attendance by 20 and increasing the price by  5 Rupees decreases attendance by 20. Unfortunately, the increased attendance also comes at an increased cost. Every performance costs the owner Rs.500. Each attendee costs another 3 Rupees. The owner would like to know the exact relationship between profit and ticket price so that he can determine the price at which he can make the highest profit. Implement a functional program to find out the best ticket price.
 
 
-<h4>Assignment 2<h4>
+<h3>Assignment 2<h3>
+
+1. Area of a disk with radius r is Pi r*r. What is the area of a disk with radius 5?
+2. The temperature is 35C; convert this temperature into Fahrenheit.
+ºF =ºC * 1.8000 + 32.00
+3. The volume of a sphere with radius r is 4/3 Pi r3. What is the volume of a sphere
+with radius 5?
+4. Suppose the cover price of a book is Rs. 24.95, but bookstores get a 40%
+discount. Shipping costs Rs. 3 for the first 50 copies and 75 cents for each
+additional copy. What is the total wholesale cost for 60 copies?
+5. I run 2 km at an easy pace (8 min per km), then 3 km at Tempo (7 min per km)
+and 2 km at easy pace again to reach home. What is the total running time?
 
 
